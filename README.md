@@ -10,5 +10,5 @@ To Download:
 3. Start GWCCC.exe
 
 Controls:
-Navigation: Use arrow keys
-Select/Start: z
+1. Navigation: Use arrow keys
+2. Select/Start: z
